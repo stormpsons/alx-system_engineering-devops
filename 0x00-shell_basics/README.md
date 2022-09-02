@@ -1,1 +1,2 @@
-Shell Basics
+Where am I?
+1. What’s in there?
